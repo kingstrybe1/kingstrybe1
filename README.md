@@ -21,6 +21,14 @@ Welcome to my GitHub profile! I’m passionate about solving problems with code,
 
 ---
 
+<h2>📺 Certifications</h2>
+
+- [Google Data Analytics Certificate](https://coursera.org/share/3086942477f3673292f1bcf3a1931651)
+- [Google Advanced Data Analytics Certificate](https://coursera.org/share/726c33a0ed97dae85787ab039199a667)
+
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
